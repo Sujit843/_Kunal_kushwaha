@@ -1,4 +1,4 @@
-package DSA.withJava.Lectures.lecture_1.Intro;
+package DSA_withJava.Lectures.lecture_1.Intro;
 
 
 // public class ko any where kahi bhi access kar sakte he

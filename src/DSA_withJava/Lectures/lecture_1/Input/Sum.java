@@ -1,4 +1,4 @@
-package DSA.withJava.Lectures.lecture_1.Input;
+package DSA_withJava.Lectures.lecture_1.Input;
 
 import java.util.Scanner;
 

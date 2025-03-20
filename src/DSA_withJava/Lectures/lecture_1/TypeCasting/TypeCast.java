@@ -1,4 +1,4 @@
-package DSA.withJava.Lectures.lecture_1.TypeCasting;
+package DSA_withJava.Lectures.lecture_1.TypeCasting;
 
 import java.util.Scanner;
 
